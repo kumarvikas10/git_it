@@ -1,3 +1,6 @@
 phone
 
 touchscreen
+
+allow
+people
